@@ -1,0 +1,32 @@
+body{
+    background: lightgrey;
+}
+
+
+
+img{
+    width: 200px;
+    border-radius: 4px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: rgb(8, 114, 242);
+}
+
+p{
+    font-family: monospace;
+    display: inline;
+    font-size: 20px;
+}
+
+.my-track{
+    display: block;
+}
+
+a{
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+}
