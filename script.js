@@ -27,8 +27,7 @@ function updateDay(){
 
 
       function openGitHubLink() {
-        // Replace with your actual GitHub repository URL
-        const githubRepoURL = "https://github.com/yourusername/your-repo";
+        const githubRepoURL = "https://github.com/pedroolayemi/bigpedrohngfirsttask.git";
         window.open(githubRepoURL, "_blank");
     }
 
