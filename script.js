@@ -33,7 +33,9 @@ function updateDay(){
 
     githubURLElement.addEventListener("click", openGitHubLink);updateTime();
     updateDay();
-      
+
+
+    setInterval(updateTime, 1000);
     //   console.log(currentTime);
       
     //   console.log(currentDay);
