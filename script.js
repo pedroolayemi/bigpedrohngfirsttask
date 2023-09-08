@@ -1,5 +1,6 @@
 const currentDayOfTheWeek = document.querySelector('[data-testid="currentDayOfTheWeek"]');
 const currentUTCTime = document.querySelector('[data-testid="currentUTCTime"]');
+const slackUserNameElement = document.querySelector('[data-testid="slackUserName"]');
 
 const githubURLElement = document.querySelector('[data-testid="githubURL"]');
 
