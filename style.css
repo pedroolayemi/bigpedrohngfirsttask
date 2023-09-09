@@ -24,7 +24,7 @@ h1{
 
 p{
     font-family: monospace;
-    display: inline;
+    display: block;
     font-size: 20px;
 }
 
