@@ -32,8 +32,10 @@ function updateDay(){
         window.open(githubRepoURL, "_blank");
     }
 
-    githubURLElement.addEventListener("click", openGitHubLink);updateTime();
-    updateDay();
+    githubURLElement.addEventListener("click", openGitHubLink);
+
+updateTime();
+updateDay();
 
 
     // setInterval(updateTime, 1000);
