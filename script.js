@@ -38,7 +38,7 @@ updateTime();
 updateDay();
 
 
-    // setInterval(updateTime, 1000);
+    setInterval(updateTime, 1000);
     //   console.log(currentTime);
       
     //   console.log(currentDay);
