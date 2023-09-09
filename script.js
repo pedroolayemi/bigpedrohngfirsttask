@@ -8,7 +8,7 @@ function updateDay(){
     const now = new Date();
     const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     const currentDayOfWeek = daysOfWeek[now.getUTCDay()];
-    currentDayOfTheWeek.textContent = currentDayOfWeek + ","
+    currentDayOfTheWeek.textContent = currentDayOfWeek
 }
 
 
